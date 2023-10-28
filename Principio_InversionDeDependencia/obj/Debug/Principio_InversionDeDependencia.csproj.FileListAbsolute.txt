@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_InversionDeDependencia\obj\Debug\Principio_InversionDeDependencia.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_InversionDeDependencia\obj\Debug\Principio_InversionDeDependencia.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_InversionDeDependencia\bin\Debug\Principio_InversionDeDependencia.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_InversionDeDependencia\bin\Debug\Principio_InversionDeDependencia.exe
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_InversionDeDependencia\bin\Debug\Principio_InversionDeDependencia.pdb
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_InversionDeDependencia\obj\Debug\Principio_InversionDeDependencia.exe
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_InversionDeDependencia\obj\Debug\Principio_InversionDeDependencia.pdb

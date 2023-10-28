@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_ResponsabilidadUnica\bin\Debug\Principio_ResponsabilidadUnica.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_ResponsabilidadUnica\bin\Debug\Principio_ResponsabilidadUnica.exe
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_ResponsabilidadUnica\bin\Debug\Principio_ResponsabilidadUnica.pdb
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_ResponsabilidadUnica\obj\Debug\Principio_ResponsabilidadUnica.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_ResponsabilidadUnica\obj\Debug\Principio_ResponsabilidadUnica.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_ResponsabilidadUnica\obj\Debug\Principio_ResponsabilidadUnica.exe
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_ResponsabilidadUnica\obj\Debug\Principio_ResponsabilidadUnica.pdb

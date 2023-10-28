@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_DeSegregaciónDeInterfaces\bin\Debug\Principio_DeSegregaciónDeInterfaces.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_DeSegregaciónDeInterfaces\bin\Debug\Principio_DeSegregaciónDeInterfaces.exe
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_DeSegregaciónDeInterfaces\bin\Debug\Principio_DeSegregaciónDeInterfaces.pdb
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_DeSegregaciónDeInterfaces\obj\Debug\Principio_DeSegregaciónDeInterfaces.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_DeSegregaciónDeInterfaces\obj\Debug\Principio_DeSegregaciónDeInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_DeSegregaciónDeInterfaces\obj\Debug\Principio_DeSegregaciónDeInterfaces.exe
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_DeSegregaciónDeInterfaces\obj\Debug\Principio_DeSegregaciónDeInterfaces.pdb

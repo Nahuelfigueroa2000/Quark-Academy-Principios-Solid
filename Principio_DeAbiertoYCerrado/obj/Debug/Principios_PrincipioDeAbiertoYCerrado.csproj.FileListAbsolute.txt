@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principios_PrincipioDeAbiertoYCerrado\bin\Debug\Principios_PrincipioDeAbiertoYCerrado.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principios_PrincipioDeAbiertoYCerrado\bin\Debug\Principios_PrincipioDeAbiertoYCerrado.exe
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principios_PrincipioDeAbiertoYCerrado\bin\Debug\Principios_PrincipioDeAbiertoYCerrado.pdb
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principios_PrincipioDeAbiertoYCerrado\obj\Debug\Principios_PrincipioDeAbiertoYCerrado.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principios_PrincipioDeAbiertoYCerrado\obj\Debug\Principios_PrincipioDeAbiertoYCerrado.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principios_PrincipioDeAbiertoYCerrado\obj\Debug\Principios_PrincipioDeAbiertoYCerrado.exe
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principios_PrincipioDeAbiertoYCerrado\obj\Debug\Principios_PrincipioDeAbiertoYCerrado.pdb

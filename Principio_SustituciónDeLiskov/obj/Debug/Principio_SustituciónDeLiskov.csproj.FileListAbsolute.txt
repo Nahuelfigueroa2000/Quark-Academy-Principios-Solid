@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_SustituciónDeLiskov\bin\Debug\Principio_SustituciónDeLiskov.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_SustituciónDeLiskov\bin\Debug\Principio_SustituciónDeLiskov.exe
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_SustituciónDeLiskov\bin\Debug\Principio_SustituciónDeLiskov.pdb
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_SustituciónDeLiskov\obj\Debug\Principio_SustituciónDeLiskov.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_SustituciónDeLiskov\obj\Debug\Principio_SustituciónDeLiskov.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_SustituciónDeLiskov\obj\Debug\Principio_SustituciónDeLiskov.exe
+C:\Users\Windows 10\Documents\Quark Academy Principios Solid\Principio_SustituciónDeLiskov\obj\Debug\Principio_SustituciónDeLiskov.pdb

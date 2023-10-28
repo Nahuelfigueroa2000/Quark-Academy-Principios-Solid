@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principio_ResponsabilidadUnica", "Principio_ResponsabilidadUnica.csproj", "{004472E5-B79D-4E65-B8AF-C070CBB94B90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{004472E5-B79D-4E65-B8AF-C070CBB94B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004472E5-B79D-4E65-B8AF-C070CBB94B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004472E5-B79D-4E65-B8AF-C070CBB94B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004472E5-B79D-4E65-B8AF-C070CBB94B90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB35F8A9-6FA8-4BD4-84B3-AD0F248B0550}
+	EndGlobalSection
+EndGlobal
